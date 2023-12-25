@@ -16,5 +16,6 @@ make
 ## How to run
 
 ```bash
-./main-cpp/main-cpp
+cd build/main-cpp
+./main-cpp
 ```
